@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+}
+h1 {
+    font-family:Arial, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 5rem;
+}
+img {
+       background-color: black;
+       width: 1000px;
+       height: 900px;    
+}
+div {
+    width: 50%;
+    margin-left:25%;
+    margin-top: 100px;
+}
+p {
+    font-family: Arial,sans-serif;
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+}
